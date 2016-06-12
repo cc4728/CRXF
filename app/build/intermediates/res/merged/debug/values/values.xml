@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_1">能谱显示</string>
+    <string name="_2">核素查询</string>
+    <string name="_3">系统设置</string>
+    <string name="app_name">RXF传感器</string>
+</resources>

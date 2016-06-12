@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\DWinterTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lay1.xml",
+        "source": "F:\\DWinterTabDemo\\app\\src\\main\\res\\layout\\lay1.xml"
+    },
+    {
+        "merged": "F:\\DWinterTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lay3.xml",
+        "source": "F:\\DWinterTabDemo\\app\\src\\main\\res\\layout\\lay3.xml"
+    },
+    {
+        "merged": "F:\\DWinterTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\DWinterTabDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\DWinterTabDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lay2.xml",
+        "source": "F:\\DWinterTabDemo\\app\\src\\main\\res\\layout\\lay2.xml"
+    }
+]
